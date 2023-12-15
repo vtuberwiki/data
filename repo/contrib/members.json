@@ -1,0 +1,10 @@
+[
+    {
+        "name": "withervt",
+        "types": [
+            "bugs",
+            "documentation"
+        ],
+        "assign": true
+    }
+]
