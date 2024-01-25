@@ -1,2 +1,2 @@
 # data
-A set of data, used with out projects
+A set of data, used with our projects
